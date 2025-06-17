@@ -28,7 +28,7 @@ Work replay of Super
 ## 3.1 Architecture
 
 <center>
-  <img src="./figure/framework.jpg" alt="framework" width="820" />
+  <img src="./src/super_ws/src/SUPER/misc/image-20250130031404057.png" alt="framework" width="820" />
 </center>
 
 ## 3.2 Experimental video
