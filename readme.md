@@ -33,9 +33,7 @@ Work replay of Super
 
 ## 3.2 Experimental video
 
-<center>
-  <img src="./figure/video-1.mp4" alt="framework" controls width=400" />
-</center>
+[点击观看视频](./figure/video-1.mp4)
 
 # 4 Installation
 
@@ -54,3 +52,4 @@ Work replay of Super
 1. xxxx
 2. xxxx
 3. xxxx
+
