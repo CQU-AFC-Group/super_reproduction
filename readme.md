@@ -33,7 +33,11 @@ Work replay of Super
 
 ## 3.2 Experimental video
 
-[点击观看视频](./figure/video-1.mp4)
+在室外环境中的最大速度10m/s
+
+<center>
+  <img src="./figure/video-1.gif" alt="framework" width="820" />
+</center>
 
 # 4 Installation
 
