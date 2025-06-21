@@ -39,6 +39,12 @@ Work replay of Super
   <img src="./figure/video-1.gif" alt="framework" width="820" />
 </center>
 
+障碍物环境中规划
+
+<center>
+  <img src="./figure/video-2.gif" alt="framework" width="820" />
+</center>
+
 # 4 Installation
 
 1. xxxx
