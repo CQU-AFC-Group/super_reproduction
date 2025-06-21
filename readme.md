@@ -2,7 +2,7 @@
     <h1>Super Reproduction</h1>
     <br>
     <a href="https://github.com/xiongzuming" target="_blank">Zuming X</a>,
-    <a href="https://github.com/xiongzuming" target="_blank">Rongqin M</a>, and
+    <a href="https://github.com/thecatinbed" target="_blank">Rongqin M</a>, and
     <a href="https://github.com/xiongzuming" target="_blank">Chao C</a>
     <br>
     <br>
